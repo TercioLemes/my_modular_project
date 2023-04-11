@@ -1,4 +1,4 @@
-# my_modular_project
+# my_modular_project_flutter
 
 A new Flutter project.
 
